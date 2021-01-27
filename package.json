@@ -1,5 +1,5 @@
 {
-  "name": "electionTest",
+  "name": "electiontest",
   "version": "1.0.0",
   "main": "main.js",
   "license": "MIT",
@@ -37,3 +37,4 @@
     "start": "^5.1.0"
   }
 }
+
